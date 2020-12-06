@@ -1,0 +1,119 @@
+body {
+	background-color: #e5e5e5;
+	color:#463333;
+font-family: 'Patrick Hand', cursive; 
+	font-size: 20px ; 
+	text-align: justify;
+}
+
+h2,h3 { 
+	color: #39311d;
+font-family: 'Cookie', cursive;
+
+ }
+h1	{
+	color: #393232; 
+font-family: 'Cookie', cursive;
+	letter-spacing: 10px ; 
+	font-size : 80px ;
+	text-align: center ;
+	
+}
+
+h2 {
+
+	font-size: 30px ; 
+	font-weight: lighter;
+	text-align: center ;
+	font-weight: bold;
+
+}
+.card-white p{
+text-decoration: none;	
+text-align: center;
+
+}
+
+a{
+ text-decoration: none ; 
+   color: black ; 
+   font-weight: bold;
+   font-family: 'Dancing Script';
+
+
+ }
+
+a:hover {
+ color: brown; 
+ }
+
+.container{
+	width: 700px;
+
+}
+.container {
+	width:500px;
+
+}
+/*Custom design with class*/
+
+.container {
+width: 900px;
+margin	: 40px auto;
+}
+
+.card-white {
+	background-color: white;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.3);
+	border-radius: 4px;
+	margin: 20px 0px; 
+	text-align : center;
+	box-shadow: 0px 10px 30px rgba(O,0,0,.1);
+
+}
+ 
+.img-circle {
+	border-radius: 50%;
+	width: 250px;
+	height :250px;
+	margin-bottom: 50px;
+}
+
+.btn-blue {
+	background-color: #d9adad; 
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+}
+
+.btn-blue:hover{
+	background-color: black; 
+	color: white; 
+
+}
+
+.list-inline {
+list-style: none;
+padding-left: 0px; 
+
+}
+
+.list-inline li {
+	display: inline;
+	padding: 10px;
+}
+.list-inline i{
+	font-size: 50px;
+	color: rgb(230,230,220);
+
+}
+.list-inline i:hover{
+	color: #95a792
+}
+
+
+#introduction p{
+margin-bottom: 40px;
+}
+
